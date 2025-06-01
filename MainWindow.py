@@ -240,243 +240,8 @@ class Ui_MainWindow(object):
         self.comboBox = QtWidgets.QComboBox(self.widget1)
         self.comboBox.setStyleSheet("background-color: #ffffff")
         self.comboBox.setObjectName("comboBox")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
+        for k in range(244):
+            self.comboBox.addItem("")
         self.verticalLayout_2.addWidget(self.comboBox)
         self.lineEdit_6 = QtWidgets.QLineEdit(self.widget1)
         self.lineEdit_6.setStyleSheet("background-color: #ffffff")
@@ -824,243 +589,254 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Comapany Name"))
         self.label_3.setText(_translate("MainWindow", "Project Title"))
         self.label_4.setText(_translate("MainWindow", "Project Description"))
-        self.comboBox.setItemText(0, _translate("MainWindow", "Afghanistan"))
-        self.comboBox.setItemText(1, _translate("MainWindow", "Albania"))
-        self.comboBox.setItemText(2, _translate("MainWindow", "Algeria"))
-        self.comboBox.setItemText(3, _translate("MainWindow", "American Samoa"))
-        self.comboBox.setItemText(4, _translate("MainWindow", "Andorra"))
-        self.comboBox.setItemText(5, _translate("MainWindow", "Angola"))
-        self.comboBox.setItemText(6, _translate("MainWindow", "Anguilla"))
-        self.comboBox.setItemText(7, _translate("MainWindow", "Antarctica"))
-        self.comboBox.setItemText(8, _translate("MainWindow", "Antigua and Barbuda"))
-        self.comboBox.setItemText(9, _translate("MainWindow", "Argentina"))
-        self.comboBox.setItemText(10, _translate("MainWindow", "Armenia"))
-        self.comboBox.setItemText(11, _translate("MainWindow", "Aruba"))
-        self.comboBox.setItemText(12, _translate("MainWindow", "Australia"))
-        self.comboBox.setItemText(13, _translate("MainWindow", "Austria"))
-        self.comboBox.setItemText(14, _translate("MainWindow", "Azerbaijan"))
-        self.comboBox.setItemText(15, _translate("MainWindow", "Bahamas"))
-        self.comboBox.setItemText(16, _translate("MainWindow", "Bahrain"))
-        self.comboBox.setItemText(17, _translate("MainWindow", "Bangladesh"))
-        self.comboBox.setItemText(18, _translate("MainWindow", "Barbados"))
-        self.comboBox.setItemText(19, _translate("MainWindow", "Belarus"))
-        self.comboBox.setItemText(20, _translate("MainWindow", "Belgium"))
-        self.comboBox.setItemText(21, _translate("MainWindow", "Belize"))
-        self.comboBox.setItemText(22, _translate("MainWindow", "Benin"))
-        self.comboBox.setItemText(23, _translate("MainWindow", "Bermuda"))
-        self.comboBox.setItemText(24, _translate("MainWindow", "Bhutan"))
-        self.comboBox.setItemText(25, _translate("MainWindow", "Bolivia"))
-        self.comboBox.setItemText(26, _translate("MainWindow", "Bosnia and Herzegovina"))
-        self.comboBox.setItemText(27, _translate("MainWindow", "Botswana"))
-        self.comboBox.setItemText(28, _translate("MainWindow", "Brazil"))
-        self.comboBox.setItemText(29, _translate("MainWindow", "Brunei Darussalam"))
-        self.comboBox.setItemText(30, _translate("MainWindow", "Bulgaria"))
-        self.comboBox.setItemText(31, _translate("MainWindow", "Burkina Faso"))
-        self.comboBox.setItemText(32, _translate("MainWindow", "Burundi"))
-        self.comboBox.setItemText(33, _translate("MainWindow", "Cambodia"))
-        self.comboBox.setItemText(34, _translate("MainWindow", "Cameroon"))
-        self.comboBox.setItemText(35, _translate("MainWindow", "Canada"))
-        self.comboBox.setItemText(36, _translate("MainWindow", "Cape Verde"))
-        self.comboBox.setItemText(37, _translate("MainWindow", "Cayman Islands"))
-        self.comboBox.setItemText(38, _translate("MainWindow", "Central African Republic"))
-        self.comboBox.setItemText(39, _translate("MainWindow", "Chad"))
-        self.comboBox.setItemText(40, _translate("MainWindow", "Chile"))
-        self.comboBox.setItemText(41, _translate("MainWindow", "China"))
-        self.comboBox.setItemText(42, _translate("MainWindow", "Christmas Island"))
-        self.comboBox.setItemText(43, _translate("MainWindow", "Cocos (Keeling) Islands"))
-        self.comboBox.setItemText(44, _translate("MainWindow", "Colombia"))
-        self.comboBox.setItemText(45, _translate("MainWindow", "Comoros"))
-        self.comboBox.setItemText(46, _translate("MainWindow", "Democratic Republic of the Congo"))
-        self.comboBox.setItemText(47, _translate("MainWindow", "Congo, Republic of (Brazzaville)"))
-        self.comboBox.setItemText(48, _translate("MainWindow", "Cook Islands"))
-        self.comboBox.setItemText(49, _translate("MainWindow", "Costa Rica"))
-        self.comboBox.setItemText(50, _translate("MainWindow", "Côte D\'ivoire (Ivory Coast)"))
-        self.comboBox.setItemText(51, _translate("MainWindow", "Croatia"))
-        self.comboBox.setItemText(52, _translate("MainWindow", "Cuba"))
-        self.comboBox.setItemText(53, _translate("MainWindow", "Cyprus"))
-        self.comboBox.setItemText(54, _translate("MainWindow", "Czech Republic"))
-        self.comboBox.setItemText(55, _translate("MainWindow", "Denmark"))
-        self.comboBox.setItemText(56, _translate("MainWindow", "Djibouti"))
-        self.comboBox.setItemText(57, _translate("MainWindow", "Dominica"))
-        self.comboBox.setItemText(58, _translate("MainWindow", "Dominican Republic"))
-        self.comboBox.setItemText(59, _translate("MainWindow", "East Timor (Timor-Leste)"))
-        self.comboBox.setItemText(60, _translate("MainWindow", "Ecuador"))
-        self.comboBox.setItemText(61, _translate("MainWindow", "Egypt"))
-        self.comboBox.setItemText(62, _translate("MainWindow", "El Salvador"))
-        self.comboBox.setItemText(63, _translate("MainWindow", "Equatorial Guinea"))
-        self.comboBox.setItemText(64, _translate("MainWindow", "Eritrea"))
-        self.comboBox.setItemText(65, _translate("MainWindow", "Estonia"))
-        self.comboBox.setItemText(66, _translate("MainWindow", "Ethiopia"))
-        self.comboBox.setItemText(67, _translate("MainWindow", "Falkland Islands"))
-        self.comboBox.setItemText(68, _translate("MainWindow", "Faroe Islands"))
-        self.comboBox.setItemText(69, _translate("MainWindow", "Fiji"))
-        self.comboBox.setItemText(70, _translate("MainWindow", "Finland"))
-        self.comboBox.setItemText(71, _translate("MainWindow", "France"))
-        self.comboBox.setItemText(72, _translate("MainWindow", "French Guiana"))
-        self.comboBox.setItemText(73, _translate("MainWindow", "French Polynesia"))
-        self.comboBox.setItemText(74, _translate("MainWindow", "French Southern Territories"))
-        self.comboBox.setItemText(75, _translate("MainWindow", "Gabon"))
-        self.comboBox.setItemText(76, _translate("MainWindow", "The Gambia"))
-        self.comboBox.setItemText(77, _translate("MainWindow", "Georgia"))
-        self.comboBox.setItemText(78, _translate("MainWindow", "Germany"))
-        self.comboBox.setItemText(79, _translate("MainWindow", "Ghana"))
-        self.comboBox.setItemText(80, _translate("MainWindow", "Gibraltar"))
-        self.comboBox.setItemText(81, _translate("MainWindow", "Greece"))
-        self.comboBox.setItemText(82, _translate("MainWindow", "Greenland"))
-        self.comboBox.setItemText(83, _translate("MainWindow", "Grenada"))
-        self.comboBox.setItemText(84, _translate("MainWindow", "Guadeloupe"))
-        self.comboBox.setItemText(85, _translate("MainWindow", "Guam"))
-        self.comboBox.setItemText(86, _translate("MainWindow", "Guatemala"))
-        self.comboBox.setItemText(87, _translate("MainWindow", "Guinea"))
-        self.comboBox.setItemText(88, _translate("MainWindow", "Guinea-Bissau"))
-        self.comboBox.setItemText(89, _translate("MainWindow", "Guyana"))
-        self.comboBox.setItemText(90, _translate("MainWindow", "Haiti"))
-        self.comboBox.setItemText(91, _translate("MainWindow", "Holy See"))
-        self.comboBox.setItemText(92, _translate("MainWindow", "Honduras"))
-        self.comboBox.setItemText(93, _translate("MainWindow", "Hong Kong"))
-        self.comboBox.setItemText(94, _translate("MainWindow", "Hungary"))
-        self.comboBox.setItemText(95, _translate("MainWindow", "Iceland"))
-        self.comboBox.setItemText(96, _translate("MainWindow", "India"))
-        self.comboBox.setItemText(97, _translate("MainWindow", "Indonesia"))
-        self.comboBox.setItemText(98, _translate("MainWindow", "Iran (Islamic Republic of)"))
-        self.comboBox.setItemText(99, _translate("MainWindow", "Iraq"))
-        self.comboBox.setItemText(100, _translate("MainWindow", "Ireland"))
-        self.comboBox.setItemText(101, _translate("MainWindow", "Israel"))
-        self.comboBox.setItemText(102, _translate("MainWindow", "Italy"))
-        self.comboBox.setItemText(103, _translate("MainWindow", "Ivory Coast"))
-        self.comboBox.setItemText(104, _translate("MainWindow", "Jamaica"))
-        self.comboBox.setItemText(105, _translate("MainWindow", "Japan"))
-        self.comboBox.setItemText(106, _translate("MainWindow", "Jordan"))
-        self.comboBox.setItemText(107, _translate("MainWindow", "Kazakhstan"))
-        self.comboBox.setItemText(108, _translate("MainWindow", "Kenya"))
-        self.comboBox.setItemText(109, _translate("MainWindow", "Kiribati"))
-        self.comboBox.setItemText(110, _translate("MainWindow", "North Korea"))
-        self.comboBox.setItemText(111, _translate("MainWindow", "South Korea"))
-        self.comboBox.setItemText(112, _translate("MainWindow", "Kosovo"))
-        self.comboBox.setItemText(113, _translate("MainWindow", "Kuwait"))
-        self.comboBox.setItemText(114, _translate("MainWindow", "Kyrgyzstan"))
-        self.comboBox.setItemText(115, _translate("MainWindow", "Lao, People\'s Democratic Republic"))
-        self.comboBox.setItemText(116, _translate("MainWindow", "Latvia"))
-        self.comboBox.setItemText(117, _translate("MainWindow", "Lebanon"))
-        self.comboBox.setItemText(118, _translate("MainWindow", "Lesotho"))
-        self.comboBox.setItemText(119, _translate("MainWindow", "Liberia"))
-        self.comboBox.setItemText(120, _translate("MainWindow", "Libya"))
-        self.comboBox.setItemText(121, _translate("MainWindow", "Liechtenstein"))
-        self.comboBox.setItemText(122, _translate("MainWindow", "Lithuania"))
-        self.comboBox.setItemText(123, _translate("MainWindow", "Luxembourg"))
-        self.comboBox.setItemText(124, _translate("MainWindow", "Macau"))
-        self.comboBox.setItemText(125, _translate("MainWindow", "Madagascar"))
-        self.comboBox.setItemText(126, _translate("MainWindow", "Malawi"))
-        self.comboBox.setItemText(127, _translate("MainWindow", "Malaysia"))
-        self.comboBox.setItemText(128, _translate("MainWindow", "Maldives"))
-        self.comboBox.setItemText(129, _translate("MainWindow", "Mali"))
-        self.comboBox.setItemText(130, _translate("MainWindow", "Malta"))
-        self.comboBox.setItemText(131, _translate("MainWindow", "Marshall Islands"))
-        self.comboBox.setItemText(132, _translate("MainWindow", "Martinique"))
-        self.comboBox.setItemText(133, _translate("MainWindow", "Mauritania"))
-        self.comboBox.setItemText(134, _translate("MainWindow", "Mauritius"))
-        self.comboBox.setItemText(135, _translate("MainWindow", "Mayotte"))
-        self.comboBox.setItemText(136, _translate("MainWindow", "Mexico"))
-        self.comboBox.setItemText(137, _translate("MainWindow", "Micronesia, Federal States of"))
-        self.comboBox.setItemText(138, _translate("MainWindow", "Moldova"))
-        self.comboBox.setItemText(139, _translate("MainWindow", "Monaco"))
-        self.comboBox.setItemText(140, _translate("MainWindow", "Mongolia"))
-        self.comboBox.setItemText(141, _translate("MainWindow", "Montenegro"))
-        self.comboBox.setItemText(142, _translate("MainWindow", "Montserrat"))
-        self.comboBox.setItemText(143, _translate("MainWindow", "Morocco"))
-        self.comboBox.setItemText(144, _translate("MainWindow", "Mozambique"))
-        self.comboBox.setItemText(145, _translate("MainWindow", "Myanmar"))
-        self.comboBox.setItemText(146, _translate("MainWindow", "Namibia"))
-        self.comboBox.setItemText(147, _translate("MainWindow", "Nauru"))
-        self.comboBox.setItemText(148, _translate("MainWindow", "Nepal"))
-        self.comboBox.setItemText(149, _translate("MainWindow", "Netherlands"))
-        self.comboBox.setItemText(150, _translate("MainWindow", "Netherlands Antilles"))
-        self.comboBox.setItemText(151, _translate("MainWindow", "New Caledonia"))
-        self.comboBox.setItemText(152, _translate("MainWindow", "New Zealand"))
-        self.comboBox.setItemText(153, _translate("MainWindow", "Nicaragua"))
-        self.comboBox.setItemText(154, _translate("MainWindow", "Niger"))
-        self.comboBox.setItemText(155, _translate("MainWindow", "Nigeria"))
-        self.comboBox.setItemText(156, _translate("MainWindow", "Niue"))
-        self.comboBox.setItemText(157, _translate("MainWindow", "North Macedonia"))
-        self.comboBox.setItemText(158, _translate("MainWindow", "Northern Mariana Islands"))
-        self.comboBox.setItemText(159, _translate("MainWindow", "Norway"))
-        self.comboBox.setItemText(160, _translate("MainWindow", "Oman"))
-        self.comboBox.setItemText(161, _translate("MainWindow", "Pakistan"))
-        self.comboBox.setItemText(162, _translate("MainWindow", "Palau"))
-        self.comboBox.setItemText(163, _translate("MainWindow", "Palestinian territories"))
-        self.comboBox.setItemText(164, _translate("MainWindow", "Panama"))
-        self.comboBox.setItemText(165, _translate("MainWindow", "Papua New Guinea"))
-        self.comboBox.setItemText(166, _translate("MainWindow", "Paraguay"))
-        self.comboBox.setItemText(167, _translate("MainWindow", "Peru"))
-        self.comboBox.setItemText(168, _translate("MainWindow", "Philippines"))
-        self.comboBox.setItemText(169, _translate("MainWindow", "Pitcairn Island"))
-        self.comboBox.setItemText(170, _translate("MainWindow", "Poland"))
-        self.comboBox.setItemText(171, _translate("MainWindow", "Portugal"))
-        self.comboBox.setItemText(172, _translate("MainWindow", "Puerto Rico"))
-        self.comboBox.setItemText(173, _translate("MainWindow", "Qatar"))
-        self.comboBox.setItemText(174, _translate("MainWindow", "Reunion Island"))
-        self.comboBox.setItemText(175, _translate("MainWindow", "Romania"))
-        self.comboBox.setItemText(176, _translate("MainWindow", "Russian Federation"))
-        self.comboBox.setItemText(177, _translate("MainWindow", "Rwanda"))
-        self.comboBox.setItemText(178, _translate("MainWindow", "Saint Kitts and Nevis"))
-        self.comboBox.setItemText(179, _translate("MainWindow", "Saint Lucia"))
-        self.comboBox.setItemText(180, _translate("MainWindow", "Saint Vincent and the Grenadines"))
-        self.comboBox.setItemText(181, _translate("MainWindow", "Samoa"))
-        self.comboBox.setItemText(182, _translate("MainWindow", "San Marino"))
-        self.comboBox.setItemText(183, _translate("MainWindow", "Sao Tome and Principe"))
-        self.comboBox.setItemText(184, _translate("MainWindow", "Saudi Arabia"))
-        self.comboBox.setItemText(185, _translate("MainWindow", "Senegal"))
-        self.comboBox.setItemText(186, _translate("MainWindow", "Serbia"))
-        self.comboBox.setItemText(187, _translate("MainWindow", "Seychelles"))
-        self.comboBox.setItemText(188, _translate("MainWindow", "Sierra Leone"))
-        self.comboBox.setItemText(189, _translate("MainWindow", "Singapore"))
-        self.comboBox.setItemText(190, _translate("MainWindow", "Slovakia"))
-        self.comboBox.setItemText(191, _translate("MainWindow", "Slovenia"))
-        self.comboBox.setItemText(192, _translate("MainWindow", "Solomon Islands"))
-        self.comboBox.setItemText(193, _translate("MainWindow", "Somalia"))
-        self.comboBox.setItemText(194, _translate("MainWindow", "South Africa"))
-        self.comboBox.setItemText(195, _translate("MainWindow", "South Sudan"))
-        self.comboBox.setItemText(196, _translate("MainWindow", "Spain"))
-        self.comboBox.setItemText(197, _translate("MainWindow", "Sri Lanka"))
-        self.comboBox.setItemText(198, _translate("MainWindow", "Sudan"))
-        self.comboBox.setItemText(199, _translate("MainWindow", "Suriname"))
-        self.comboBox.setItemText(200, _translate("MainWindow", "Swaziland "))
-        self.comboBox.setItemText(201, _translate("MainWindow", "Sweden"))
-        self.comboBox.setItemText(202, _translate("MainWindow", "Switzerland"))
-        self.comboBox.setItemText(203, _translate("MainWindow", "Syria"))
-        self.comboBox.setItemText(204, _translate("MainWindow", "Taiwan"))
-        self.comboBox.setItemText(205, _translate("MainWindow", "Tajikistan"))
-        self.comboBox.setItemText(206, _translate("MainWindow", "Tanzania"))
-        self.comboBox.setItemText(207, _translate("MainWindow", "Thailand"))
-        self.comboBox.setItemText(208, _translate("MainWindow", "Tibet"))
-        self.comboBox.setItemText(209, _translate("MainWindow", "Timor-Leste"))
-        self.comboBox.setItemText(210, _translate("MainWindow", "Togo"))
-        self.comboBox.setItemText(211, _translate("MainWindow", "Tokelau"))
-        self.comboBox.setItemText(212, _translate("MainWindow", "Tonga"))
-        self.comboBox.setItemText(213, _translate("MainWindow", "Trinidad and Tobago"))
-        self.comboBox.setItemText(214, _translate("MainWindow", "Tunisia"))
-        self.comboBox.setItemText(215, _translate("MainWindow", "Turkey"))
-        self.comboBox.setItemText(216, _translate("MainWindow", "Turkmenistan"))
-        self.comboBox.setItemText(217, _translate("MainWindow", "Turks and Caicos Islands"))
-        self.comboBox.setItemText(218, _translate("MainWindow", "Tuvalu"))
-        self.comboBox.setItemText(219, _translate("MainWindow", "Uganda"))
-        self.comboBox.setItemText(220, _translate("MainWindow", "Ukraine"))
-        self.comboBox.setItemText(221, _translate("MainWindow", "United Arab Emirates"))
-        self.comboBox.setItemText(222, _translate("MainWindow", "United Kingdom"))
-        self.comboBox.setItemText(223, _translate("MainWindow", "United States"))
-        self.comboBox.setItemText(224, _translate("MainWindow", "Uruguay"))
-        self.comboBox.setItemText(225, _translate("MainWindow", "Uzbekistan"))
-        self.comboBox.setItemText(226, _translate("MainWindow", "Vanuatu"))
-        self.comboBox.setItemText(227, _translate("MainWindow", "Vatican City State"))
-        self.comboBox.setItemText(228, _translate("MainWindow", "Venezuela"))
-        self.comboBox.setItemText(229, _translate("MainWindow", "Vietnam"))
-        self.comboBox.setItemText(230, _translate("MainWindow", "Virgin Islands (British)"))
-        self.comboBox.setItemText(231, _translate("MainWindow", "Virgin Islands (U.S.)"))
-        self.comboBox.setItemText(232, _translate("MainWindow", "Wallis and Futuna Islands"))
-        self.comboBox.setItemText(233, _translate("MainWindow", "Western Sahara"))
-        self.comboBox.setItemText(234, _translate("MainWindow", "Yemen"))
-        self.comboBox.setItemText(235, _translate("MainWindow", "Zambia"))
-        self.comboBox.setItemText(236, _translate("MainWindow", "Zimbabwe"))
+        dic_of_countries = {
+            "Afghanistan": "AF",
+            "Albania": "AL",
+            "Algeria": "DZ",
+            "American Samoa": "AS",
+            "Andorra": "AD",
+            "Angola": "AO",
+            "Anguilla": "AI",
+            "Antarctica": "AQ",
+            "Antigua and Barbuda": "AG",
+            "Argentina": "AR",
+            "Armenia": "AM",
+            "Aruba": "AW",
+            "Australia": "AU",
+            "Austria": "AT",
+            "Azerbaijan": "AZ",
+            "Bahamas": "BS",
+            "Bahrain": "BH",
+            "Bangladesh": "BD",
+            "Barbados": "BB",
+            "Belarus": "BY",
+            "Belgium": "BE",
+            "Belize": "BZ",
+            "Benin": "BJ",
+            "Bermuda": "BM",
+            "Bhutan": "BT",
+            "Bolivia": "BO",
+            "Bosnia and Herzegovina": "BA",
+            "Botswana": "BW",
+            "Brazil": "BR",
+            "British Indian Ocean Territory": "IO",
+            "Brunei Darussalam": "BN",
+            "Bulgaria": "BG",
+            "Burkina Faso": "BF",
+            "Burundi": "BI",
+            "Cambodia": "KH",
+            "Cameroon": "CM",
+            "Canada": "CA",
+            "Cape Verde": "CV",
+            "Central African Republic": "CF",
+            "Cayman Islands": "KY",
+            "Chad": "TD",
+            "Chile": "CL",
+            "China": "CN",
+            "Christmas Island": "CX",
+            "Cocos (Keeling) Islands": "CC",
+            "Colombia": "CO",
+            "Comoros": "KM",
+            "Congo": "CG",
+            "Cook Islands": "CK",
+            "Costa Rica": "CR",
+            "Croatia": "HR",
+            "Cuba": "CU",
+            "Cyprus": "CY",
+            "Czech Republic": "CZ",
+            "Denmark": "DK",
+            "Djibouti": "DJ",
+            "Dominica": "DM",
+            "Dominican Republic": "DO",
+            "Ecuador": "EC",
+            "Egypt": "EG",
+            "El Salvador": "SV",
+            "Equatorial Guinea": "GQ",
+            "Eritrea": "ER",
+            "Estonia": "EE",
+            "Eswatini": "SZ",
+            "Ethiopia": "ET",
+            "Falkland Islands (Malvinas)": "FK",
+            "Faroe Islands": "FO",
+            "Fiji": "FJ",
+            "Finland": "FI",
+            "France": "FR",
+            "French Guiana": "GF",
+            "French Polynesia": "PF",
+            "French Southern Territories": "TF",
+            "Gabon": "GA",
+            "Gambia": "GM",
+            "Georgia": "GE",
+            "Germany": "DE",
+            "Ghana": "GH",
+            "Gibraltar": "GI",
+            "Greece": "GR",
+            "Greenland": "GL",  
+            "Grenada": "GD",
+            "Guadeloupe": "GP",
+            "Guam": "GU",
+            "Guatemala": "GT",
+            "Guernsey": "GG",
+            "Guinea": "GN",
+            "Guinea-Bissau": "GW",
+            "Guyana": "GY",
+            "Haiti": "HT",
+            "Heard Island and McDonald Islands": "HM",
+            "Holy See (Vatican City State)": "VA",
+            "Honduras": "HN",
+            "Hong Kong": "HK",
+            "Hungary": "HU",
+            "Iceland": "IS",    
+            "India": "IN",
+            "Indonesia": "ID",
+            "Iran (Islamic Republic of)": "IR",
+            "Iraq": "IQ",
+            "Ireland": "IE",
+            "Isle of Man": "IM",
+            "Israel": "IL",
+            "Italy": "IT",
+            "Jamaica": "JM",
+            "Japan": "JP",
+            "Jersey": "JE",
+            "Jordan": "JO",
+            "Kazakhstan": "KZ",
+            "Kenya": "KE",
+            "Kiribati": "KI",
+            "Korea (Democratic People's Republic of)": "KP",
+            "Korea, Republic of": "KR",
+            "Kuwait": "KW",
+            "Kyrgyzstan": "KG",
+            "Lao People's Democratic Republic": "LA",
+            "Latvia": "LV",
+            "Lebanon": "LB",
+            "Lesotho": "LS",
+            "Liberia": "LR",
+            "Libya": "LY",
+            "Liechtenstein": "LI",
+            "Lithuania": "LT",
+            "Luxembourg": "LU",
+            "Macao": "MO",
+            "Macedonia (the former Yugoslav Republic of)": "MK",
+            "Madagascar": "MG",
+            "Malawi": "MW",
+            "Malaysia": "MY",
+            "Maldives": "MV",
+            "Mali": "ML",
+            "Malta": "MT",
+            "Marshall Islands": "MH",
+            "Martinique": "MQ",
+            "Mauritania": "MR",
+            "Mauritius": "MU",
+            "Mayotte": "YT",
+            "Mexico": "MX",
+            "Micronesia (Federated States of)": "FM",
+            "Moldova (Republic of)": "MD",
+            "Monaco": "MC",
+            "Mongolia": "MN",
+            "Montenegro": "ME",
+            "Montserrat": "MS",
+            "Morocco": "MA",
+            "Mozambique": "MZ",
+            "Myanmar": "MM",
+            "Namibia": "NA",
+            "Nauru": "NR",
+            "Nepal": "NP",
+            "Netherlands": "NL",
+            "New Caledonia": "NC",
+            "New Zealand": "NZ",
+            "Nicaragua": "NI",
+            "Niger": "NE",
+            "Nigeria": "NG",
+            "Niue": "NU",
+            "Norfolk Island": "NF",
+            "North Macedonia": "MK",
+            "Northern Mariana Islands": "MP",
+            "Norway": "NO",
+            "Oman": "OM",
+            "Pakistan": "PK",
+            "Palau": "PW",
+            "Palestine, State of": "PS",
+            "Panama": "PA",
+            "Papua New Guinea": "PG",
+            "Paraguay": "PY",
+            "Peru": "PE",
+            "Philippines": "PH",
+            "Pitcairn": "PN",
+            "Poland": "PL",
+            "Portugal": "PT",
+            "Puerto Rico": "PR",
+            "Qatar": "QA",
+            "Réunion": "RE",
+            "Romania": "RO",
+            "Russian Federation": "RU",
+            "Rwanda": "RW",
+            "Saint Barthélemy": "BL",
+            "Saint Helena, Ascension and Tristan da Cunha": "SH",
+            "Saint Kitts and Nevis": "KN",
+            "Saint Lucia": "LC",
+            "Saint Martin (French part)": "MF",
+            "Saint Pierre and Miquelon": "PM",
+            "Saint Vincent and the Grenadines": "VC",
+            "Samoa": "WS",
+            "San Marino": "SM",
+            "Sao Tome and Principe": "ST",
+            "Saudi Arabia": "SA",
+            "Senegal": "SN",
+            "Serbia": "RS",
+            "Seychelles": "SC",
+            "Sierra Leone": "SL",
+            "Singapore": "SG",
+            "Sint Maarten (Dutch part)": "SX",
+            "Slovakia": "SK",
+            "Slovenia": "SI",
+            "Solomon Islands": "SB",
+            "Somalia": "SO",
+            "South Africa": "ZA",
+            "South Georgia and the South Sandwich Islands": "GS",
+            "South Sudan": "SS",
+            "Spain": "ES",
+            "Sri Lanka": "LK",
+            "Sudan": "SD",
+            "Suriname": "SR",
+            "Svalbard and Jan Mayen": "SJ",
+            "Sweden": "SE",
+            "Switzerland": "CH",
+            "Syrian Arab Republic": "SY",
+            "Taiwan": "TW",
+            "Tajikistan": "TJ",
+            "Tanzania, United Republic of": "TZ",
+            "Thailand": "TH",
+            "Timor-Leste": "TL",
+            "Togo": "TG",
+            "Tokelau": "TK",
+            "Tonga": "TO",
+            "Trinidad and Tobago": "TT",
+            "Tunisia": "TN",
+            "Turkey": "TR",
+            "Turkmenistan": "TM",
+            "Turks and Caicos Islands": "TC",
+            "Tuvalu": "TV",
+            "Uganda": "UG",
+            "Ukraine": "UA",
+            "United Arab Emirates": "AE",
+            "United Kingdom of Great Britain and Northern Ireland": "GB",
+            "United States of America": "US",
+            "United States Minor Outlying Islands": "UM",
+            "Uruguay": "UY",
+            "Uzbekistan": "UZ",
+            "Vanuatu": "VU",
+            "Venezuela (Bolivarian Republic of)": "VE",
+            "Viet Nam": "VN",
+            "Virgin Islands (British)": "VG",
+            "Virgin Islands (U.S.)": "VI",
+            "Wallis and Futuna": "WF",
+            "Western Sahara": "EH",
+            "Yemen": "YE",
+            "Zambia": "ZM",
+            "Zimbabwe": "ZW",
+            }
+        self.comboBox.clear()
+        self.comboBox.addItems(sorted(dic_of_countries.keys()))
         self.label_5.setText(_translate("MainWindow", "Name of Valuer"))
         self.label_6.setText(_translate("MainWindow", "Job Number"))
         self.label_7.setText(_translate("MainWindow", "Client"))
